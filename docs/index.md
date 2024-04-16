@@ -2,11 +2,11 @@
 
 ## Vedmak Anomaly Runner
 
-Escalations/expeditions are found by running combat anomaly sites in high security space. The first fit below can be used in all high security space combat sites including hideaways, refugees and dens that may escalate to DED 3 to 5 sites. It can also run class 3 anomalies although I prefer the second fit for that.
+Escalations/expeditions are found by running combat anomaly sites in high security space. The first fit below can be used in all high security space combat sites including hideaways, refugees and dens that may escalate to DED 3 to 5 sites.
 
 The fit uses sensor boosters to increase the locking speed and help run this easy sites faster and entropic radiation sink to increase the damage. Alternatively one of the radiation sinks can be replaced by a sensor booster to further increase the locking speed. This also helps when running a contested anomally.
 
-The second fit can be used to run the escalations up to DED 5. 
+The second fit can be used to run the escalations up to DED 4 with ease. DED 5 is also possible but needs a bit of care.
 
 <table>
 <tr>
@@ -87,9 +87,10 @@ Warrior II x1
 Hornet EC-300 x4
 
 Nanite Repair Paste x20
-Tetryon Exotic Plasma M x2595
-Baryon Exotic Plasma M x5027
-Meson Exotic Plasma M x2741
+Tetryon Exotic Plasma M x1000
+Baryon Exotic Plasma M x1000
+Meson Exotic Plasma M x1000
+Sisters Core Scanner Probe x8
 </pre>
 
 </td>
