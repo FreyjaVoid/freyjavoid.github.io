@@ -76,8 +76,8 @@ Improved Cloaking Device II
 Sisters Core Probe Launcher
 
 Medium Capacitor Control Circuit II
-Medium Capacitor Control Circuit II
-Medium Auxiliary Nano Pump I
+Medium Capacitor Control Circuit I
+Medium Auxiliary Nano Pump II
 
 
 
