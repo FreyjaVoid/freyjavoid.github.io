@@ -16,7 +16,7 @@ The second fit can be used to run the escalations up to DED 5.
 <tr>
 <td valign="top">
 
-```
+<pre>
 [Vedmak, Anomaly Finder]
 
 Reactive Armor Hardener
@@ -50,12 +50,12 @@ Baryon Exotic Plasma M x1000
 Scan Resolution Script x2
 Sisters Core Scanner Probe x8
 Meson Exotic Plasma M x1000
-```
+</pre>
 
 </td>
 <td valign="top">
 
-```
+<pre>
 [Vedmak, Vedmak DED 4/5]
 
 Reactive Armor Hardener
@@ -90,7 +90,7 @@ Nanite Repair Paste x20
 Tetryon Exotic Plasma M x2595
 Baryon Exotic Plasma M x5027
 Meson Exotic Plasma M x2741
-```
+</pre>
 
 </td>
 </tr>
