@@ -97,3 +97,4 @@ Sisters Core Scanner Probe x8
 </tr>
 </table>
 
+[![Guristas Den](https://img.youtube.com/vi/HwvltGYBH_g/maxresdefault.jpg)](https://youtu.be/HwvltGYBH_g "Guristas Den")
