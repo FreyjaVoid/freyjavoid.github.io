@@ -1,6 +1,6 @@
 # Vedmak 
 
-## Vedmak Anomaly Runner
+## Anomaly Runner
 
 Escalations/expeditions are found by running combat anomaly sites in high security space. The first fit below can be used in all high security space combat sites including hideaways, refugees and dens that may escalate to DED 3 to 5 sites.
 
@@ -98,3 +98,48 @@ Sisters Core Scanner Probe x8
 </table>
 
 [![Guristas Den](https://img.youtube.com/vi/HwvltGYBH_g/maxresdefault.jpg)](https://youtu.be/HwvltGYBH_g "Guristas Den")
+
+
+## C3 Warmhole
+
+Same idea here, replacing the armor hardeners for multispectrum energized membranes.
+
+```
+[Vedmak, Vedmak WM C3]
+Multispectrum Energized Membrane II
+Multispectrum Energized Membrane II
+Medium Armor Repairer II
+Entropic Radiation Sink II
+Entropic Radiation Sink II
+Reactive Armor Hardener
+
+Republic Fleet Large Cap Battery
+10MN Y-S8 Compact Afterburner
+Cap Recharger II
+Cap Recharger II
+
+Heavy Entropic Disintegrator II
+Medium Ghoul Compact Energy Nosferatu
+
+Medium Auxiliary Nano Pump I
+Medium Auxiliary Nano Pump I
+Medium Nanobot Accelerator I
+
+
+
+Vespa II x5
+Hornet EC-300 x5
+
+Stasis Webifier II x1
+Inherent Implants 'Squire' Power Grid Management EG-602 x1
+Standard Exile Booster x1
+Nanite Repair Paste x300
+Agency 'Hardshell' TB5 Dose II x1
+Tetryon Exotic Plasma M x1000
+Baryon Exotic Plasma M x1000
+Meson Exotic Plasma M x2000
+Occult M x2000
+Mystic M x1000
+
+```
+
