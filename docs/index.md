@@ -17,11 +17,11 @@ The second fit can be used to run the escalations up to DED 4 with ease. DED 5 i
 <td valign="top">
 
 <pre>
-[Vedmak, Anomaly Finder]
+[Vedmak, Anomaly Finder / DED3]
 
 Reactive Armor Hardener
 Medium Armor Repairer II
-Entropic Radiation Sink II
+Damage Control II
 Entropic Radiation Sink II
 Multispectrum Energized Membrane II
 Multispectrum Energized Membrane II
